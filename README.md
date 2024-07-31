@@ -1,4 +1,4 @@
-![f79aec65d4f0f45e3f63c306ada39e4](https://github.com/user-attachments/assets/02cd0e67-498a-44dd-9e93-f7dfc55e94f6)# shop
+# shop
 电商后台管理系统
 该电子商城后台管理系统采用前后端分离的开发模式，包括账号管理、商品管理、订单管理、数据统计等业务功能，以VUE 3为前端框架，以及MYSQL为数据库收集数据，后端以Python语言为核心，Flask为WEB框架独立开发完成。
 需要准备：
