@@ -25,19 +25,19 @@ Werkzeug==2.2.2
 wincertstore==0.2      
 使用工具：VScode
 后端               
-技术名                     功能
-Python3 >= 3.6            主要开发语言，解释器
-Flask 2.2.2               WEB框架
-MySQL>=5.5                存储主要数据
-flask-sqlalchemy==3.0.2   ORM框架,与数据库交互
-flask-migrate==4.0.0      数据库迁移工具
-pyjwt==2.6.0              jwt工具，生成管理token
+技术名                   
+（1）Python3 >= 3.6；
+（2）Flask 2.2.2；            
+（3）MySQL>=5.5；               
+（4）flask-sqlalchemy==3.0.2；  
+（5）flask-migrate==4.0.0；     
+（6）pyjwt==2.6.0；             
 前端
-技术名                     功能
-Vue3                      前端框架
-Element Plus              UI框架
-AXios                     发送请求工具
-Echarts                   图表工具
+技术名                 
+（1）Vue3                      
+（2）Element Plus            
+（3）AXios               
+（4）Echarts                   
 <img width="960" alt="1e61183576ce42be1eae51827d08f04d_" src="https://github.com/user-attachments/assets/9ee71171-e249-4926-8f30-514adeb8fbc4">
 <img width="960" alt="525411fdd32b6ceb0304447e82ce8e65_" src="https://github.com/user-attachments/assets/1db4c63c-026f-435f-bcd6-abdf9199be0a">
 <img width="954" alt="450f72a1fea606cff1123c62aed6b2e3_" src="https://github.com/user-attachments/assets/c341f02c-2a3a-45de-9da4-609ce9444ff9">
@@ -49,7 +49,9 @@ Echarts                   图表工具
 <img width="954" alt="6cc1b7261870ed6934d835dc7f5f4fa5_" src="https://github.com/user-attachments/assets/d9c0f70b-8c20-481d-93b9-50d68d06d741">
 <img width="954" alt="11e826cb94ab7e767300b88e4854ccd7_" src="https://github.com/user-attachments/assets/86454fb8-ae54-4314-ba73-c77162c8056b">
 <img width="954" alt="b8133120e5daa3fbaccc80a22e5b3194_" src="https://github.com/user-attachments/assets/e0758906-1fb2-4966-89ae-d50fd849543c">
-![Uploading 0b18d93b1f63c72bb64bab3c776d3268_.png…]()
+<img width="954" alt="0b18d93b1f63c72bb64bab3c776d3268_" src="https://github.com/user-attachments/assets/8700ba3c-cbd9-46b3-b2af-359fabe3537d">
+
+
 
 
 
